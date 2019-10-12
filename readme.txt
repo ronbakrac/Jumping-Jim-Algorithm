@@ -4,7 +4,7 @@ g++ JumpingJim.cpp
 
 
 Program expects to read input from a file named "input.txt"
-First two parameters in the file should be the number of rows then the number of columns. After that, the value of every trampoline should be place in order. For the original problem, the input.txt would look like:
+First two parameters in the file should be the number of rows then the number of columns. After that, the value of every trampoline should be placed in order. For the original problem, the input.txt would look like:
 
 7 7
 3 6 4 3 2 4 3
