@@ -33,4 +33,4 @@ Program will only see the <strong>first</strong> node as the starting node and <
 The program will output The directions needed to take to reach the end using cardinal directions
 
 # How to Compile
-`g++ JumpingJim.cpp -o <whatever>`
+`g++ JumpingJim.cpp
