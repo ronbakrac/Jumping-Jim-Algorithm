@@ -30,7 +30,6 @@ For the original problem, the input.txt would look like
 
 Program will only see the <strong>first</strong> node as the starting node and <strong>last</strong> node as the exit. Adjustments can very easily be made to change the starting and exit position to any node.
 
-The program will output The directions needed to take to reach the end using cardinal directions
-
+The program will output the directions needed to reach exit by pasting cardinal directions in a document _"output.txt"_.
 # How to Compile
-`g++ JumpingJim.cpp
+`g++ JumpingJim.cpp`
